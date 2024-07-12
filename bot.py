@@ -1,8 +1,8 @@
 #!/usr/bin/env python3 
 # -*- coding: utf-8 -*-
 
-# Instagram reels downloader bot by Kourva
-# Github: https://github.com/kourva/ReelsBot
+# Instagram reels downloader bot by kozyol
+# Github: https://github.com/kozyol/ReelsBot
 
 # Resources
 import telebot
